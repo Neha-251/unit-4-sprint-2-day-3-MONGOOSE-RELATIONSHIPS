@@ -1,0 +1,25 @@
+{
+  "name": "unit-4-sprint-2-day-3-mongoose-relationships",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon/src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neha-251/unit-4-sprint-2-day-3-MONGOOSE-RELATIONSHIPS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neha-251/unit-4-sprint-2-day-3-MONGOOSE-RELATIONSHIPS/issues"
+  },
+  "homepage": "https://github.com/Neha-251/unit-4-sprint-2-day-3-MONGOOSE-RELATIONSHIPS#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6",
+    "nodemon": "^2.0.15"
+  }
+}
